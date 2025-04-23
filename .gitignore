@@ -1,0 +1,5 @@
+#Files to ignore while pushing it to the GitHub repo
+node_modules
+
+package-lock.json
+package.json
